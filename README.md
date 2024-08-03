@@ -142,7 +142,41 @@ Step 9: Access the private ec2 via jumpserver
 
 <img width="725" alt="image" src="https://github.com/user-attachments/assets/e185c9f2-5c4f-4b29-abf3-5f9b809c79e2">
 
-![Uploading image.png…]()
+<img width="784" alt="image" src="https://github.com/user-attachments/assets/705ca903-c10c-4acd-af6a-ab0ec6314a84">
+
+<img width="728" alt="image" src="https://github.com/user-attachments/assets/09ec45d2-d05b-4007-bb99-01dcecf58545">
+
+<img width="790" alt="image" src="https://github.com/user-attachments/assets/403a941f-a73e-4c78-8e4b-9be602fc2e47">
+
+Here comes the last step
+
+Step 10: Create a VPC Gateway Endpoint for S3, it adds automatically to private route table
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/f8f483fd-f0b9-4121-a54b-f86638d4b00d">
+
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/4153f064-76d9-48f7-8f04-e030d920c7ac">
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/2dfc225b-c346-46cf-a4fb-81d5e394fc10">
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/748ff216-89ae-4053-9952-e877225a5629">
+
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/65c85f6e-4188-4483-9a20-2ea1f2652a2a">
+
+<img width="491" alt="image" src="https://github.com/user-attachments/assets/432d11a4-000f-4604-8f67-93b13dfe5ff1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
