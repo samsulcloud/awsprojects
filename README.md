@@ -167,7 +167,6 @@ Step 10: Create a VPC Gateway Endpoint for S3, it adds a route automatically to 
 <img width="958" alt="image" src="https://github.com/user-attachments/assets/65c85f6e-4188-4483-9a20-2ea1f2652a2a">
 
 
-<img width="491" alt="image" src="https://github.com/user-attachments/assets/432d11a4-000f-4604-8f67-93b13dfe5ff1">
 
 
 <img width="902" alt="image" src="https://github.com/user-attachments/assets/6d31ba03-fc85-4c78-b514-da9e72a35c4b">
