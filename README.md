@@ -150,21 +150,28 @@ Step 9: Access the private ec2 via jumpserver
 
 Here comes the last step
 
-Step 10: Create a VPC Gateway Endpoint for S3, it adds automatically to private route table
+Step 10: Create a VPC Gateway Endpoint for S3, it adds a route automatically to private route table also you need to create a user with access/secretaccess key for retrieving s3 buckets after configuring the credentials. AMAZON LImux has aws cli by default.
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/f8f483fd-f0b9-4121-a54b-f86638d4b00d">
 
+
 <img width="956" alt="image" src="https://github.com/user-attachments/assets/4153f064-76d9-48f7-8f04-e030d920c7ac">
+
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/2dfc225b-c346-46cf-a4fb-81d5e394fc10">
 
+
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/748ff216-89ae-4053-9952-e877225a5629">
+
 
 <img width="958" alt="image" src="https://github.com/user-attachments/assets/65c85f6e-4188-4483-9a20-2ea1f2652a2a">
 
+
 <img width="491" alt="image" src="https://github.com/user-attachments/assets/432d11a4-000f-4604-8f67-93b13dfe5ff1">
 
+
 <img width="902" alt="image" src="https://github.com/user-attachments/assets/6d31ba03-fc85-4c78-b514-da9e72a35c4b">
+
 
 
 
