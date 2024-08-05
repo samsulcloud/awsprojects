@@ -164,7 +164,8 @@ Step 10: Create a VPC Gateway Endpoint for S3, it adds automatically to private 
 
 <img width="491" alt="image" src="https://github.com/user-attachments/assets/432d11a4-000f-4604-8f67-93b13dfe5ff1">
 
-<img width="905" alt="image" src="https://github.com/user-attachments/assets/94534c53-c35e-43ab-a49c-30bbc0d5e01e">
+<img width="902" alt="image" src="https://github.com/user-attachments/assets/6d31ba03-fc85-4c78-b514-da9e72a35c4b">
+
 
 
 
